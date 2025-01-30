@@ -17,14 +17,6 @@ A simple web application for managing user details, built with React. This appli
 
 [View Live Demo](https://ajackus-assignment-sigma.vercel.app/)
 
-## Screenshots
-
-![Dashboard View](/screenshots/dashboard.png)  
-_Main User List View_
-
-![Add User Form](/screenshots/add-user.png)  
-_Add User Modal_
-
 ## Technologies Used
 
 - React (JavaScript library)
