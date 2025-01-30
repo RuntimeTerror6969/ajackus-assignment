@@ -13,9 +13,9 @@ A simple web application for managing user details, built with React. This appli
 - **Client-Side Validation**: Ensures data integrity
 - **Error Handling**: Displays meaningful error messages
 
-## Live Demo
+### Live Demo
 
-[View Live Demo](#) _(https://ajackus-assignment-sigma.vercel.app/)_
+[View Live Demo](https://ajackus-assignment-sigma.vercel.app/)
 
 ## Screenshots
 
