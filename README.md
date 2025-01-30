@@ -15,7 +15,7 @@ A simple web application for managing user details, built with React. This appli
 
 ## Live Demo
 
-[View Live Demo](#) _(Add your deployment link here)_
+[View Live Demo](#) _(https://ajackus-assignment-sigma.vercel.app/)_
 
 ## Screenshots
 
@@ -48,7 +48,7 @@ _Add User Modal_
    ```
 2. Navigate to the project directory:
    ```bash
-   cd user-management-dashboard
+   cd ajackus-assignment
    ```
 3. Install dependencies:
    ```bash
